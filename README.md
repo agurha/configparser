@@ -1,4 +1,4 @@
-## ConfigParser package 
+## ConfigParser package written in GO 
 
 ## You can just give a file with some configuration
 
@@ -16,3 +16,4 @@ redis :
 	port = 6397
 	password = 12345
 	host = localhost
+
