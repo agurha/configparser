@@ -1,6 +1,6 @@
 ## ConfigParser package written in GO 
 
-## You can just give a file with some configuration
+### You can just give a file with some configuration
 
 [default]
 port = 1337
